@@ -1,0 +1,11 @@
+{
+  "_comment": "punishments for a server and how many warnings it takes to automatically punish the user (optional, not required) <use command `-setwarn`>",
+
+  "_comment2": "567041839971172352 is example   1=kick 2=ban",
+  "567041839971172352": [
+    {
+      "Amount": 5,
+      "Punishent": 1,
+    }
+  ]
+}
