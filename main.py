@@ -66,7 +66,7 @@ async def on_ready():
   await bot.change_presence(activity=discord.Activity(name='Netflix', type = discord.ActivityType.watching))
 
 # =========
-# Temporary Bans (SCRAPED)
+# Temporary Bans
 # =========
 async def tempcheck():
   await bot.wait_until_ready()
