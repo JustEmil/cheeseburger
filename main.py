@@ -46,7 +46,7 @@ extension = [
   'commands.automod',
   'commands.mute_deafen',
   'commands.nick',
-  # 'errorhandler',
+  'errorhandler',
   'commands.purge',
   'commands.ban',
   'commands.welcome',
